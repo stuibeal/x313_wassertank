@@ -1,3 +1,3 @@
 CompileFlags:
-  CompilationDatabase: build
+  CompilationDatabase: /home/al/git/x313_wassertank/x313_tank/build
   Remove: [-m*, -f*]

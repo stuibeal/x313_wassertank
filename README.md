@@ -9,3 +9,4 @@
 
 All new build-up on an ARI458 'cause the guys in the werkhalle didn't it right.
 
+Use the ESP-IDF (Eclipse) to compile and run.
